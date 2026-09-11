@@ -1,6 +1,6 @@
 <template>
   <header class="top"> 
-    <h1>Balance Calculation</h1>
+    <h1>Balance Calculation in Vue</h1>
     <p>Split expenses and see who owns what.</p>    
   </header>
 </template>
