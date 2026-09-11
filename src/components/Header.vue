@@ -7,8 +7,8 @@
 
 <style scoped>
 .top {
-    text-align: center;
-    margin-bottom: 16px;
+  text-align: center;
+  margin-bottom: 16px;
 }
 
 .top h1 {
